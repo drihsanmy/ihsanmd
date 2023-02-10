@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Ihsan.</h2>
 
-<h2 align="center">![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)</h2>
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 
 
