@@ -10,8 +10,11 @@ Contact me
 
 Academic
 
-Profile
+
 <a href="https://scholar.google.com/citations?user=2GYttqUAAAAJ&hl=en"><img src="imgs/citations.svg" alt="Citations"></a>
+
+Profile
+
 
 Education Platform
 
