@@ -40,7 +40,8 @@
 
 <br>
 <br>
-<b> Non-Governmental Organisation</b>
+<b>Non-Governmental Organisation</b>
+
 [<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](https://sekolahkripto.org)
 
 <br>
@@ -49,7 +50,7 @@
 
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://app.starname.me/profile/*ihsanmd/BTC/)
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://app.starname.me/profile/*ihsanmd/ETH/)
-[![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
+[![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](https://ihsanmd.bit.cc/)
 [<img height="28" width="107" alt="Dani Akash" src="https://www.cryptoninjas.net/wp-content/uploads/binance-pay-crypto-ninjas.jpg"/>]()
 [![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)](https://app.starname.me/profile/*ihsanmd/DOGE/)
 [<img height="28" width="107" alt="Dani Akash" src="https://s.yimg.com/ny/api/res/1.2/Bc.g0btKT2fi0fABiRtT0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_media_980/3229960e45b90197e2300cc119f7f5f2"/>
