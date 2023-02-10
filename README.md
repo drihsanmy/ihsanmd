@@ -13,7 +13,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/encik_kubis)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ihsanmd_)
 [<img height="28" width="107" alt="Nostr" src="https://images.indianexpress.com/2022/12/nostr-feat.jpg" />](https://iris.to/ihsanmd@idt3.com) [<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](https://ihsanmd.com)
-[<img height="28" width="107" alt="Pentas" src="https://www.pentas.io/pentas-logo-text.svg" />](https://app.pentas.io/user/0xD5DBBEd0c1fb0399A2AAF25bF802bb99Af6EE593) [<img height="28" width="107" alt="Opensea" src="https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).png" />](http://opensea.io/Mykingcrypto)
+[<img height="28" width="107" alt="Pentas" src="https://www.pentas.io/pentas-logo-text.svg" />](https://app.pentas.io/user/0xD5DBBEd0c1fb0399A2AAF25bF802bb99Af6EE593) [<img height="28" width="107" alt="Opensea" src="https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).png" />](http://opensea.io/0xD5DBBEd0c1fb0399A2AAF25bF802bb99Af6EE593)
 
 
 <br>
