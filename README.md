@@ -55,7 +55,7 @@
 [![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)](https://app.starname.me/profile/*ihsanmd/LTC/)
 [<img height="28" width="107" alt="Osmosis" src="https://mma.prnewswire.com/media/1815294/Osmosis_Logo.jpg?p=facebook"/>](https://app.starname.me/profile/*ihsanmd/OSMO/)
 [![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)](https://app.starname.me/profile/*ihsanmd/ATOM)
-[<img height="28" width="107" alt="Lightning" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXmzRv4wSt6nwItgvnQW98IwjQbAn_R0_fg&usqp=CAU"/>](https://idt3.com/.well-known/lnurlp/ihsanmd)
+[<img height="28" width="107" alt="Lightning" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXmzRv4wSt6nwItgvnQW98IwjQbAn_R0_fg&usqp=CAU"/>](lightning:ihsanmd@idt3.com)
 
 <br>
 
