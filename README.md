@@ -22,7 +22,7 @@
 <br>
 <b>Academic</b>
 
-<img height="28" width="107" alt="Dani Akash" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPf5kjRx7VKfmgo6NdLz8-EURYaqyWl-ZWA&usqp=CAU"/>
+[<img height="28" width="107" alt="Google Scholar" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPf5kjRx7VKfmgo6NdLz8-EURYaqyWl-ZWA&usqp=CAU"/>](https://scholar.google.com/citations?user=XPBwimcAAAAJ&hl=en&oi=sra)
  
 
 <br>
