@@ -5,8 +5,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
-
-
 <b>Contact me</b>
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -18,26 +16,20 @@
 [![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://bws.bio)
 
 
-
-
-
-
+<br>
+<br>
 <b>Academic</b>
 
 <img height="28" width="107" alt="Dani Akash" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPf5kjRx7VKfmgo6NdLz8-EURYaqyWl-ZWA&usqp=CAU"/>
  
 
-
-
-
-
-
+<br>
+<br>
 <b>Profile</b>
 
 
-
-
-
+<br>
+<br>
 <b>Education Platform</b>
 
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
@@ -45,19 +37,15 @@
 
 
 
-
-
-
-
+<br>
+<br>
 <b> Non-Governmental Organisation>/b>
 
 [![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://bws.bio)
 
 
-
-
-
-
+<br>
+<br>
 <b>Payment Methods</b>
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
@@ -71,4 +59,5 @@
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 <img height="28" width="107" alt="Dani Akash" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXmzRv4wSt6nwItgvnQW98IwjQbAn_R0_fg&usqp=CAU"/>
 
+<br>
 <img height="28" width="107" alt="Dani Akash" src="https://adyen.getbynder.com/m/6b88bd989d3ed2a/webimage-pmx-logo-duitnow.jpg" /> <img height="33" width="107" alt="Dani Akash" src="https://camo.githubusercontent.com/d26a3688e30d85c7c0a7317bac72e7d9516e837b4bcf2427cbe7b7850edcceb9/68747470733a2f2f7777772e696b6c616e6c61682e636f6d2f696d616765732f746f797969627061792d7769646765742d736d2d702e706e67" />
