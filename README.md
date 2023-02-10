@@ -58,4 +58,5 @@
 [<img height="28" width="107" alt="Lightning" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXmzRv4wSt6nwItgvnQW98IwjQbAn_R0_fg&usqp=CAU"/>](https://idt3.com/.well-known/lnurlp/ihsanmd)
 
 <br>
-<img height="28" width="107" alt="Dani Akash" src="https://adyen.getbynder.com/m/6b88bd989d3ed2a/webimage-pmx-logo-duitnow.jpg" /> <img height="33" width="107" alt="Dani Akash" src="https://camo.githubusercontent.com/d26a3688e30d85c7c0a7317bac72e7d9516e837b4bcf2427cbe7b7850edcceb9/68747470733a2f2f7777772e696b6c616e6c61682e636f6d2f696d616765732f746f797969627061792d7769646765742d736d2d702e706e67" />
+[<img height="28" width="107" alt="Duitnow" src="https://adyen.getbynder.com/m/6b88bd989d3ed2a/webimage-pmx-logo-duitnow.jpg" />](https://drive.google.com/file/d/1_ts6u5Q6D0kmLtXe7Rz9mjfbSzAKbNZa/view?usp=drivesdk) [<img height="33" width="107" alt="FPX" src="https://camo.githubusercontent.com/d26a3688e30d85c7c0a7317bac72e7d9516e837b4bcf2427cbe7b7850edcceb9/68747470733a2f2f7777772e696b6c616e6c61682e636f6d2f696d616765732f746f797969627061792d7769646765742d736d2d702e706e67" />]()
+[<img height="28" width="107" alt="Shopee" src="https://i0.wp.com/www.adobomagazine.com/wp-content/uploads/2015/12/shopee-newspage.jpg?fit=563%2C296&ssl=1" />](https://wsa.wallet.airpay.com.my/qr/00a91d0a03dc0af42662?smtt=0.0.3)
