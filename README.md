@@ -6,7 +6,7 @@ Contact me
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-
+[![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://bws.bio)
 
 Academic
 
