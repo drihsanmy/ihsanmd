@@ -34,17 +34,14 @@
 <br>
 <b>Education Platform</b>
 
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@MySekolahKriptoTV)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ihsankingcrypto) [<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](http://edu.ytjt.org)
 
 
 <br>
 <br>
 <b> Non-Governmental Organisation</b>
-
-[![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://bws.bio)
-
+[<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](https://sekolahkripto.org)
 
 <br>
 <br>
