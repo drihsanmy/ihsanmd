@@ -57,7 +57,7 @@
 ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)
 [<img height="28" width="107" alt="Dani Akash" src="https://mma.prnewswire.com/media/1815294/Osmosis_Logo.jpg?p=facebook"/>]()
 [![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-[<img height="28" width="107" alt="Lightning" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXmzRv4wSt6nwItgvnQW98IwjQbAn_R0_fg&usqp=CAU"/>](lightning:ihsanmd@idt3.com)
+[<img height="28" width="107" alt="Lightning" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXmzRv4wSt6nwItgvnQW98IwjQbAn_R0_fg&usqp=CAU"/>](https://idt3.com/.well-known/lnurlp/ihsanmd)
 
 <br>
 <img height="28" width="107" alt="Dani Akash" src="https://adyen.getbynder.com/m/6b88bd989d3ed2a/webimage-pmx-logo-duitnow.jpg" /> <img height="33" width="107" alt="Dani Akash" src="https://camo.githubusercontent.com/d26a3688e30d85c7c0a7317bac72e7d9516e837b4bcf2427cbe7b7850edcceb9/68747470733a2f2f7777772e696b6c616e6c61682e636f6d2f696d616765732f746f797969627061792d7769646765742d736d2d702e706e67" />
