@@ -7,8 +7,7 @@
 
 
 
-Contact me
-
+<b>Contact me</b>
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
@@ -18,25 +17,48 @@ Contact me
 <img height="28" width="107" alt="Dani Akash" src="https://images.indianexpress.com/2022/12/nostr-feat.jpg"/>
 [![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://bws.bio)
 
-Academic
+
+
+
+
+
+<b>Academic</b>
 
 <img height="28" width="107" alt="Dani Akash" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPf5kjRx7VKfmgo6NdLz8-EURYaqyWl-ZWA&usqp=CAU"/>
  
 
 
-Profile
 
 
-Education Platform
 
 
-![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://bws.bio)
+<b>Profile</b>
+
+
+
+
+
+<b>Education Platform</b>
+
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 
-Payment Methods
 
+
+
+
+
+<b> Non-Governmental Organisation>/b>
+
+[![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://bws.bio)
+
+
+
+
+
+
+<b>Payment Methods</b>
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
