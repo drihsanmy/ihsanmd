@@ -44,7 +44,4 @@ Payment Methods
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 <img height="25" width="115" alt="Dani Akash" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXmzRv4wSt6nwItgvnQW98IwjQbAn_R0_fg&usqp=CAU"/>
 
-
-
-<img height="25" width="115" alt="Dani Akash" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXmzRv4wSt6nwItgvnQW98IwjQbAn_R0_fg&usqp=CAU"/>
-
+<img height="35" width="115" alt="Dani Akash" src="https://adyen.getbynder.com/m/6b88bd989d3ed2a/webimage-pmx-logo-duitnow.jpg" />
