@@ -42,4 +42,4 @@ Payment Methods
 ![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)
 ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-<img height="150" alt="Dani Akash" src="https://sdk.bitmoji.com/render/panel/dc878a02-6c0d-4366-ab3b-b86a397e31ad-9abca207-e196-4c3e-8932-0fae4ce0c737-v1.png?transparent=1&palette=1"/>
+<img height="30" alt="Dani Akash" src="https://sdk.bitmoji.com/render/panel/dc878a02-6c0d-4366-ab3b-b86a397e31ad-9abca207-e196-4c3e-8932-0fae4ce0c737-v1.png?transparent=1&palette=1"/>
