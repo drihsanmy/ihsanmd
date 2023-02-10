@@ -11,17 +11,20 @@ Contact me
 Academic
 
 
-![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://bws.bio)
-
 <a href="https://scholar.google.com/citations?user=2GYttqUAAAAJ&hl=en"><img src="imgs/citations.svg" alt="Citations"></a>
+
+
 Profile
 
 
 Education Platform
 
 
+![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://bws.bio)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+
 Payment Methods
 
 
