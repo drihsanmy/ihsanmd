@@ -52,7 +52,7 @@
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://app.starname.me/profile/*ihsanmd/ETH/)
 [![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
 [<img height="28" width="107" alt="Dani Akash" src="https://www.cryptoninjas.net/wp-content/uploads/binance-pay-crypto-ninjas.jpg"/>]()
-[![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)
+[![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)](https://app.starname.me/profile/*ihsanmd/DOGE/)
 [<img height="28" width="107" alt="Dani Akash" src="https://s.yimg.com/ny/api/res/1.2/Bc.g0btKT2fi0fABiRtT0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/decrypt_media_980/3229960e45b90197e2300cc119f7f5f2"/>
 ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)
 [<img height="28" width="107" alt="Dani Akash" src="https://mma.prnewswire.com/media/1815294/Osmosis_Logo.jpg?p=facebook"/>]()
