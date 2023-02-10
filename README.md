@@ -58,8 +58,5 @@
 [<img height="28" width="107" alt="Lightning" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXmzRv4wSt6nwItgvnQW98IwjQbAn_R0_fg&usqp=CAU"/>](https://idt3.com/.well-known/lnurlp/ihsanmd)
 
 <br>
-[<img height="28" width="107" alt="Lightning" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXmzRv4wSt6nwItgvnQW98IwjQbAn_R0_fg&usqp=CAU"/>](https://idt3.com/.well-known/lnurlp/ihsanmd)
 
-[<img height="28" width="107" alt="Duitnow" src="https://adyen.getbynder.com/m/6b88bd989d3ed2a/webimage-pmx-logo-duitnow.jpg"/>](https://drive.google.com/file/d/1aKfaokCEYeaA5WlYHcrqS8Kpnz8E88zi/view?usp=drivesdk)
-
-[<img height="28" width="107" alt="Shopee" src="https://i0.wp.com/www.adobomagazine.com/wp-content/uploads/2015/12/shopee-newspage.jpg?fit=563%2C296&ssl=1"/>](https://wsa.wallet.airpay.com.my/qr/00a91d0a03dc0af42662?smtt=0.0.3)
+[<img height="28" width="107" alt="Duitnow" src="https://adyen.getbynder.com/m/6b88bd989d3ed2a/webimage-pmx-logo-duitnow.jpg"/>](https://drive.google.com/file/d/1aKfaokCEYeaA5WlYHcrqS8Kpnz8E88zi/view?usp=drivesdk) [<img height="28" width="107" alt="Shopee" src="https://i0.wp.com/www.adobomagazine.com/wp-content/uploads/2015/12/shopee-newspage.jpg?fit=563%2C296&ssl=1"/>](https://wsa.wallet.airpay.com.my/qr/00a91d0a03dc0af42662?smtt=0.0.3)
