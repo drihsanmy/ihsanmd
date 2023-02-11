@@ -28,6 +28,7 @@
 <br>
 <br>
 <b>Profile</b>
+
 -To be added-
 
 <br>
@@ -52,7 +53,7 @@
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://app.starname.me/profile/*ihsanmd/BTC/)
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://app.starname.me/profile/*ihsanmd/ETH/)
 <br>[![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](https://ihsanmd.bit.cc/) [<img height="28" width="107" alt="Matic" src="https://uploads-ssl.webflow.com/5f9a1900790900e2b7f25ba1/611f9d12419f2e2b75f158fb_polygon-logo.svg"/>](https://ud.me/ihsanmd.nft)
-[![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)](https://app.starname.me/profile/*ihsanmd/DOGE/)
+<br>[![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)](https://app.starname.me/profile/*ihsanmd/DOGE/)
 <br>[![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)](https://app.starname.me/profile/*ihsanmd/LTC/)
 [<img height="28" width="107" alt="Osmosis" src="https://mma.prnewswire.com/media/1815294/Osmosis_Logo.jpg?p=facebook"/>](https://app.starname.me/profile/*ihsanmd/OSMO/)
 <br>[![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)](https://app.starname.me/profile/*ihsanmd/ATOM)
