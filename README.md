@@ -13,7 +13,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ihsanmd.nft)
 <br>[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ihsanmd_)
 [<img height="28" width="107" alt="Nostr" src="https://images.indianexpress.com/2022/12/nostr-feat.jpg" />](https://iris.to/ihsanmd@idt3.com)<br> [<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](https://ihsanmd.com)
-[<img height="28" width="107" alt="Pentas" src="https://www.pentas.io/pentas-logo-text.svg" />](https://app.pentas.io/user/0xD5DBBEd0c1fb0399A2AAF25bF802bb99Af6EE593) <br>[<img height="28" width="107" alt="Opensea" src="https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).png" />](http://opensea.io/0xD5DBBEd0c1fb0399A2AAF25bF802bb99Af6EE593)
 [<img height="28" width="107" alt="Github" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png" />](https://github.com/drihsanmy) <br>[<img height="28" width="107" alt="commonwealth" src="https://i.ibb.co/qxKMHQQ/IMG-20230210-225707-894.jpg" />](https://commonwealth.im/osmosis/account/osmo1azeqrnhxyznjzs2txccjj2yh9sxg8rtz9yqj4j)
 
 
@@ -38,6 +37,12 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@MySekolahKriptoTV)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ihsankingcrypto)<br> [<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](http://edu.ytjt.org)
 [<img height="28" width="107" alt="Web" src="https://cdn-icons-png.flaticon.com/512/1367/1367671.png"/>](https://saudagartraining.kiah.store/e-commerce/product/42521)
+
+<br>
+<br>
+
+<b> Expensive JPEG Collection (NFT) </b>
+[<img height="28" width="107" alt="Pentas" src="https://www.pentas.io/pentas-logo-text.svg" />](https://app.pentas.io/user/0xD5DBBEd0c1fb0399A2AAF25bF802bb99Af6EE593) [<img height="28" width="107" alt="Opensea" src="https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).png" />](https://opensea.io/0xD5DBBEd0c1fb0399A2AAF25bF802bb99Af6EE593)
 
 
 <br>
