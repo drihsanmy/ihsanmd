@@ -28,7 +28,16 @@
 <br>
 <b>Profile</b>
 
+Medical Profile Portfolio
+
 -To be added-
+<br>
+<br>
+
+Blockchain Profile Portfolio
+
+[<img height="28" width="107" alt="profileb" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRWpGeJCTe3Y9wGMRHEBe1adxEAGdNxgMVuA&usqp=CAU"/>](https://drive.google.com/file/d/14OX8jnZhFYLJ_bNXeneENljHP1LMyq_x/view?usp=drivesdk)
+ 
 
 <br>
 <br>
