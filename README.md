@@ -36,7 +36,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@MySekolahKriptoTV)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ihsankingcrypto)<br> [<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](http://edu.ytjt.org)
-[<img height="28" width="107" alt="Web" src="https://cdn-icons-png.flaticon.com/512/1367/1367671.png"/>](https://sekolahkripto.org)
+[<img height="28" width="107" alt="Web" src="https://cdn-icons-png.flaticon.com/512/1367/1367671.png"/>](https://saudagartraining.kiah.store/e-commerce/product/42521)
 
 
 <br>
