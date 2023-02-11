@@ -33,10 +33,12 @@
 
 <br>
 <br>
-<b>Education Platform</b>
+<b>Education Platform & Material</b>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@MySekolahKriptoTV)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ihsankingcrypto) [<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](http://edu.ytjt.org)
+<br>
+[<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](https://sekolahkripto.org)
 
 
 <br>
@@ -51,10 +53,10 @@
 
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://app.starname.me/profile/*ihsanmd/BTC/)
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://app.starname.me/profile/*ihsanmd/ETH/)
-[![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](https://ihsanmd.bit.cc/) [<img height="28" width="107" alt="Matic" src="https://uploads-ssl.webflow.com/5f9a1900790900e2b7f25ba1/611f9d12419f2e2b75f158fb_polygon-logo.svg"/>](https://ud.me/ihsanmd.nft)
+[![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](https://ihsanmd.bit.cc/) <br>[<img height="28" width="107" alt="Matic" src="https://uploads-ssl.webflow.com/5f9a1900790900e2b7f25ba1/611f9d12419f2e2b75f158fb_polygon-logo.svg"/>](https://ud.me/ihsanmd.nft)
 [![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)](https://app.starname.me/profile/*ihsanmd/DOGE/)
 [![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)](https://app.starname.me/profile/*ihsanmd/LTC/)
-[<img height="28" width="107" alt="Osmosis" src="https://mma.prnewswire.com/media/1815294/Osmosis_Logo.jpg?p=facebook"/>](https://app.starname.me/profile/*ihsanmd/OSMO/)
+<br>[<img height="28" width="107" alt="Osmosis" src="https://mma.prnewswire.com/media/1815294/Osmosis_Logo.jpg?p=facebook"/>](https://app.starname.me/profile/*ihsanmd/OSMO/)
 [![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)](https://app.starname.me/profile/*ihsanmd/ATOM)
 [<img height="28" width="107" alt="Lightning" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXmzRv4wSt6nwItgvnQW98IwjQbAn_R0_fg&usqp=CAU"/>](lightning:ihsanmd@idt3.com)
 
