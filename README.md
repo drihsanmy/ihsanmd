@@ -9,13 +9,12 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihsamd@ytjt.org)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihsanmd@skiff.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/encik_kubis)
-<br>
+<br>[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/encik_kubis)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ihsanmd.nft)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ihsanmd_)
-[<img height="28" width="107" alt="Nostr" src="https://images.indianexpress.com/2022/12/nostr-feat.jpg" />](https://iris.to/ihsanmd@idt3.com) <br>[<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](https://ihsanmd.com)
-[<img height="28" width="107" alt="Pentas" src="https://www.pentas.io/pentas-logo-text.svg" />](https://app.pentas.io/user/0xD5DBBEd0c1fb0399A2AAF25bF802bb99Af6EE593) [<img height="28" width="107" alt="Opensea" src="https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).png" />](http://opensea.io/0xD5DBBEd0c1fb0399A2AAF25bF802bb99Af6EE593)
-<br>[<img height="28" width="107" alt="Github" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png" />](https://github.com/drihsanmy) [<img height="28" width="107" alt="commonwealth" src="https://i.ibb.co/qxKMHQQ/IMG-20230210-225707-894.jpg" />](https://commonwealth.im/osmosis/account/osmo1azeqrnhxyznjzs2txccjj2yh9sxg8rtz9yqj4j)
+<br>[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ihsanmd_)
+[<img height="28" width="107" alt="Nostr" src="https://images.indianexpress.com/2022/12/nostr-feat.jpg" />](https://iris.to/ihsanmd@idt3.com)<br> [<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](https://ihsanmd.com)
+[<img height="28" width="107" alt="Pentas" src="https://www.pentas.io/pentas-logo-text.svg" />](https://app.pentas.io/user/0xD5DBBEd0c1fb0399A2AAF25bF802bb99Af6EE593) <br>[<img height="28" width="107" alt="Opensea" src="https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).png" />](http://opensea.io/0xD5DBBEd0c1fb0399A2AAF25bF802bb99Af6EE593)
+[<img height="28" width="107" alt="Github" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png" />](https://github.com/drihsanmy) <br>[<img height="28" width="107" alt="commonwealth" src="https://i.ibb.co/qxKMHQQ/IMG-20230210-225707-894.jpg" />](https://commonwealth.im/osmosis/account/osmo1azeqrnhxyznjzs2txccjj2yh9sxg8rtz9yqj4j)
 
 
 
@@ -29,16 +28,15 @@
 <br>
 <br>
 <b>Profile</b>
-
+-To be added-
 
 <br>
 <br>
 <b>Education Platform & Material</b>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@MySekolahKriptoTV)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ihsankingcrypto) [<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](http://edu.ytjt.org)
-<br>
-[<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](https://sekolahkripto.org)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ihsankingcrypto)<br> [<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](http://edu.ytjt.org)
+[<img height="28" width="107" alt="Web" src="https://cdn-icons-png.flaticon.com/512/1367/1367671.png"/>](https://sekolahkripto.org)
 
 
 <br>
@@ -53,11 +51,11 @@
 
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://app.starname.me/profile/*ihsanmd/BTC/)
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://app.starname.me/profile/*ihsanmd/ETH/)
-[![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](https://ihsanmd.bit.cc/) <br>[<img height="28" width="107" alt="Matic" src="https://uploads-ssl.webflow.com/5f9a1900790900e2b7f25ba1/611f9d12419f2e2b75f158fb_polygon-logo.svg"/>](https://ud.me/ihsanmd.nft)
+<br>[![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](https://ihsanmd.bit.cc/) [<img height="28" width="107" alt="Matic" src="https://uploads-ssl.webflow.com/5f9a1900790900e2b7f25ba1/611f9d12419f2e2b75f158fb_polygon-logo.svg"/>](https://ud.me/ihsanmd.nft)
 [![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)](https://app.starname.me/profile/*ihsanmd/DOGE/)
-[![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)](https://app.starname.me/profile/*ihsanmd/LTC/)
-<br>[<img height="28" width="107" alt="Osmosis" src="https://mma.prnewswire.com/media/1815294/Osmosis_Logo.jpg?p=facebook"/>](https://app.starname.me/profile/*ihsanmd/OSMO/)
-[![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)](https://app.starname.me/profile/*ihsanmd/ATOM)
+<br>[![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)](https://app.starname.me/profile/*ihsanmd/LTC/)
+[<img height="28" width="107" alt="Osmosis" src="https://mma.prnewswire.com/media/1815294/Osmosis_Logo.jpg?p=facebook"/>](https://app.starname.me/profile/*ihsanmd/OSMO/)
+<br>[![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)](https://app.starname.me/profile/*ihsanmd/ATOM)
 [<img height="28" width="107" alt="Lightning" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXmzRv4wSt6nwItgvnQW98IwjQbAn_R0_fg&usqp=CAU"/>](lightning:ihsanmd@idt3.com)
 
 <br>
