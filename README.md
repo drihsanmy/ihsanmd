@@ -1,11 +1,11 @@
 <h2 align="center"><img align="center" height="150" alt="ihsanmd" src="https://imgproxy.iris.to/insecure/plain/https://nostr.build/i/nostr.build_20fa7c4afff5ce37917c12134a1c139b507cf6bfd202645a86f370366f7512a4.jpg" href="https://iris.to/ihsanmd"/></h2>
 
 
-<h2 align="center">👋 Hello! I'm Ihsan.
+<h2 align="center">👋 Hello! I'm Ihsan.</h2>
  
  <br>
 <br>
-<b>Contact me
+<p align="center"><b>Contact me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihsamd@ytjt.org)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihsanmd@skiff.com)
@@ -14,7 +14,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ihsanmd_)
 [<img height="28" width="107" alt="Nostr" src="https://images.indianexpress.com/2022/12/nostr-feat.jpg" />](https://iris.to/ihsanmd) [<img height="28" width="107" alt="Web" src="https://i.imgur.com/NQsm1wi.png"/>](https://ihsanmd.com)
 > [<img height="28" width="107" alt="Github" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" />](https://github.com/drihsanmy) [<img height="28" width="107" alt="commonwealth" src="https://i.imgur.com/L5lGdHt.png" />](https://commonwealth.im/osmosis/account/osmo1azeqrnhxyznjzs2txccjj2yh9sxg8rtz9yqj4j) </b>
-</h2>
+</p>
 <br>
 <h2 align="center">Academic 
  
