@@ -1,4 +1,4 @@
-<h2 align="center"><img align="center" height="150" alt="ihsanmd" src="https://imgproxy.iris.to/insecure/plain/https://nostr.build/i/nostr.build_20fa7c4afff5ce37917c12134a1c139b507cf6bfd202645a86f370366f7512a4.jpg" href="https://iris.to/ihsanmd@getalby.com"/></h2>
+<h2 align="center"><img align="center" height="150" alt="ihsanmd" src="https://imgproxy.iris.to/insecure/plain/https://nostr.build/i/nostr.build_20fa7c4afff5ce37917c12134a1c139b507cf6bfd202645a86f370366f7512a4.jpg" href="https://iris.to/ihsanmd"/></h2>
 
 
 <h2 align="center">👋 Hello! I'm Ihsan.
@@ -12,10 +12,14 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/encik_kubis)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ihsanmd.nft)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ihsanmd_)
-[<img height="28" width="107" alt="Nostr" src="https://images.indianexpress.com/2022/12/nostr-feat.jpg" />](https://iris.to/ihsanmd@iris.to) [<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](https://ihsanmd.com)
+[<img height="28" width="107" alt="Nostr" src="https://images.indianexpress.com/2022/12/nostr-feat.jpg" />](https://iris.to/ihsanmd) [<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](https://ihsanmd.com)
 [<img height="28" width="107" alt="Github" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" />](https://github.com/drihsanmy) [<img height="28" width="107" alt="commonwealth" src="https://i.ibb.co/qxKMHQQ/IMG-20230210-225707-894.jpg" />](https://commonwealth.im/osmosis/account/osmo1azeqrnhxyznjzs2txccjj2yh9sxg8rtz9yqj4j)
 </h2>
-<h2 align="center">Academic </h2>
+<h2 align="center">Academic 
+ 
+ 
+[<img height="28" width="107" alt="Google Scholar" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPf5kjRx7VKfmgo6NdLz8-EURYaqyWl-ZWA&usqp=CAU"/>](https://scholar.google.com/citations?user=XPBwimcAAAAJ&hl=en&oi=sra)   [<img height="28" width="107" alt="Nostr" src="https://images.indianexpress.com/2022/12/nostr-feat.jpg" />]([https://iris.to/ihsanmd@iris.to](https://iris.to/drihsan))
+</h2>
 
 
 
@@ -24,7 +28,7 @@
 <br>
 <b>Academic</b>
 
-[<img height="28" width="107" alt="Google Scholar" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPf5kjRx7VKfmgo6NdLz8-EURYaqyWl-ZWA&usqp=CAU"/>](https://scholar.google.com/citations?user=XPBwimcAAAAJ&hl=en&oi=sra)
+
  
 
 <br>
