@@ -15,23 +15,12 @@
 [<img height="28" width="107" alt="Nostr" src="https://images.indianexpress.com/2022/12/nostr-feat.jpg" />](https://iris.to/ihsanmd) [<img height="28" width="107" alt="Web" src="https://i.imgur.com/NQsm1wi.png"/>](https://ihsanmd.com)
 > [<img height="28" width="107" alt="Github" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" />](https://github.com/drihsanmy) [<img height="28" width="107" alt="commonwealth" src="https://i.imgur.com/L5lGdHt.png" />](https://commonwealth.im/osmosis/account/osmo1azeqrnhxyznjzs2txccjj2yh9sxg8rtz9yqj4j) </b>
 </h2>
+<br>
 <h2 align="center">Academic 
  
  
 [<img height="28" width="107" alt="Google Scholar" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPf5kjRx7VKfmgo6NdLz8-EURYaqyWl-ZWA&usqp=CAU"/>](https://scholar.google.com/citations?user=XPBwimcAAAAJ&hl=en&oi=sra)   [<img height="28" width="107" alt="Nostr" src="https://images.indianexpress.com/2022/12/nostr-feat.jpg" />]([https://iris.to/ihsanmd@iris.to](https://iris.to/drihsan))
 </h2>
-
-
-
-
-<br>
-<br>
-<b>Academic</b>
-
-
- 
-
-<br>
 <br>
 <b>Profile</b>
 
@@ -48,11 +37,13 @@ Blockchain Profile Portfolio
 
 <br>
 <br>
-<b>Education Platform & Material</b>
-
+<h2 align="center">Education Platform & Material
+ 
+ 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@MySekolahKriptoTV)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ihsankingcrypto)<br> [<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](https://edu.ytjt.org)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ihsankingcrypto)[<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](https://edu.ytjt.org)
 [<img height="28" width="107" alt="Web" src="https://cdn-icons-png.flaticon.com/512/1367/1367671.png"/>](https://saudagartraining.kiah.store/e-commerce/product/42521)
+</h2>
 
 <br>
 <br>
