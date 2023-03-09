@@ -50,26 +50,21 @@ Blockchain Profile Portfolio
 [<img height="28" width="107" alt="Pentas" src="https://www.pentas.io/pentas-logo-text.svg" />](https://app.pentas.io/user/0xD5DBBEd0c1fb0399A2AAF25bF802bb99Af6EE593) [<img height="28" width="107" alt="Opensea" src="https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).png" />](https://opensea.io/0xD5DBBEd0c1fb0399A2AAF25bF802bb99Af6EE593)[<img height="28" width="107" alt="nip05" src="https://i.ibb.co/Tt7pwvr/IMG-20230211-112624-594.jpg" />](https://saudagartraining.kiah.store/e-commerce/product/42522)  [<img height="28" width="107" alt="ud" src="https://mma.prnewswire.com/media/1550425/unstoppabledomains_Logo.jpg?p=twitter" />](https://saudagartraining.kiah.store/e-commerce/product/42526)
 </h2>
 
-
 <br>
-<br>
-<b>Non-Governmental Organisation</b>
-
+<h2 align="center">Non-Governmental Organisation
+ 
 [<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](https://sekolahkripto.org)
+</h2>
 
 <br>
-<br>
-<b>Payment Methods</b>
-
+<h2 align="center">Payment Methods
+ 
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://app.starname.me/profile/ihsanmd*me/BTC/)
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://app.starname.me/profile/ihsanmd*me/ETH/)
-<br>[![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](https://ud.me/ihsanmd.nft) [<img height="28" width="107" alt="Matic" src="https://uploads-ssl.webflow.com/5f9a1900790900e2b7f25ba1/611f9d12419f2e2b75f158fb_polygon-logo.svg"/>](https://ud.me/ihsanmd.nft)
-<br>[![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)](https://app.starname.me/profile/ihsanmd*me/DOGE/) [<img height="28" width="107" alt="usdt" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ14sLXjVYgs4FlRCtpHwYJklKBGepDt1Rqw&usqp"/>](https://app.starname.me/profile/ihsanmd*me/USDT/)
-<br>[![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)](https://app.starname.me/profile/ihsanmd*me/LTC/)
+[![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](https://ud.me/ihsanmd.nft) [<img height="28" width="107" alt="Matic" src="https://uploads-ssl.webflow.com/5f9a1900790900e2b7f25ba1/611f9d12419f2e2b75f158fb_polygon-logo.svg"/>](https://ud.me/ihsanmd.nft)
+[![Dogecoin](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)](https://app.starname.me/profile/ihsanmd*me/DOGE/) [<img height="28" width="107" alt="usdt" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ14sLXjVYgs4FlRCtpHwYJklKBGepDt1Rqw&usqp"/>](https://app.starname.me/profile/ihsanmd*me/USDT/)
+[![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)](https://app.starname.me/profile/ihsanmd*me/LTC/)
 [<img height="28" width="107" alt="Osmosis" src="https://mma.prnewswire.com/media/1815294/Osmosis_Logo.jpg?p=facebook"/>](https://app.starname.me/profile/ihsanmd*me/OSMO/)
-<br>[![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)](https://app.starname.me/profile/ihsanmd*me/ATOM)
-[<img height="28" width="107" alt="Lightning" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXmzRv4wSt6nwItgvnQW98IwjQbAn_R0_fg&usqp=CAU"/>](lightning:ihsanmd@getalby.com)
-
-<br>
-
-[<img height="28" width="107" alt="Duitnow" src="https://adyen.getbynder.com/m/6b88bd989d3ed2a/webimage-pmx-logo-duitnow.jpg"/>](https://drive.google.com/file/d/1aKfaokCEYeaA5WlYHcrqS8Kpnz8E88zi/view?usp=drivesdk) [<img height="28" width="107" alt="Shopee" src="https://i0.wp.com/www.adobomagazine.com/wp-content/uploads/2015/12/shopee-newspage.jpg?fit=563%2C296&ssl=1"/>](https://wsa.wallet.airpay.com.my/qr/00a91d0a03dc0af42662?smtt=0.0.3)
+[![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)](https://app.starname.me/profile/ihsanmd*me/ATOM)
+[<img height="28" width="107" alt="Lightning" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPXmzRv4wSt6nwItgvnQW98IwjQbAn_R0_fg&usqp=CAU"/>](lightning:ihsanmd@getalby.com)[<img height="28" width="107" alt="Duitnow" src="https://adyen.getbynder.com/m/6b88bd989d3ed2a/webimage-pmx-logo-duitnow.jpg"/>](https://drive.google.com/file/d/1aKfaokCEYeaA5WlYHcrqS8Kpnz8E88zi/view?usp=drivesdk) [<img height="28" width="107" alt="Shopee" src="https://i0.wp.com/www.adobomagazine.com/wp-content/uploads/2015/12/shopee-newspage.jpg?fit=563%2C296&ssl=1"/>](https://wsa.wallet.airpay.com.my/qr/00a91d0a03dc0af42662?smtt=0.0.3)
+</h2>
