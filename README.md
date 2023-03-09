@@ -12,8 +12,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/encik_kubis)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ihsanmd.nft)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ihsanmd_)
-[<img height="28" width="107" alt="Nostr" src="https://images.indianexpress.com/2022/12/nostr-feat.jpg" />](https://iris.to/ihsanmd@iris.to)<br> [<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](https://ihsanmd.com)
-[<img height="28" width="107" alt="Github" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png" />](https://github.com/drihsanmy) [<img height="28" width="107" alt="commonwealth" src="https://i.ibb.co/qxKMHQQ/IMG-20230210-225707-894.jpg" />](https://commonwealth.im/osmosis/account/osmo1azeqrnhxyznjzs2txccjj2yh9sxg8rtz9yqj4j)
+[<img height="28" width="107" alt="Nostr" src="https://images.indianexpress.com/2022/12/nostr-feat.jpg" />](https://iris.to/ihsanmd@iris.to) [<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](https://ihsanmd.com)
+[<img height="28" width="107" alt="Github" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" />](https://github.com/drihsanmy) [<img height="28" width="107" alt="commonwealth" src="https://i.ibb.co/qxKMHQQ/IMG-20230210-225707-894.jpg" />](https://commonwealth.im/osmosis/account/osmo1azeqrnhxyznjzs2txccjj2yh9sxg8rtz9yqj4j)
 <br>
 <br>
  test
