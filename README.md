@@ -16,7 +16,7 @@
  <h3 align="center">Academic</h3>
  
  
-[<img height="28" width="107" alt="Google Scholar" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPf5kjRx7VKfmgo6NdLz8-EURYaqyWl-ZWA&usqp=CAU"/>](https://scholar.google.com/citations?user=XPBwimcAAAAJ&hl=en&oi=sra)   [<img height="28" width="107" alt="Nostr" src="https://images.indianexpress.com/2022/12/nostr-feat.jpg" />]([https://iris.to/ihsanmd@iris.to](https://iris.to/drihsan))
+[<img align="center" height="28" width="107" alt="Google Scholar" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKPf5kjRx7VKfmgo6NdLz8-EURYaqyWl-ZWA&usqp=CAU"/>](https://scholar.google.com/citations?user=XPBwimcAAAAJ&hl=en&oi=sra)   [<img align="center" height="28" width="107" alt="Nostr" src="https://images.indianexpress.com/2022/12/nostr-feat.jpg" />]([https://iris.to/ihsanmd@iris.to](https://iris.to/drihsan))
 <br>
 <br>
 <b>Profile</b>
