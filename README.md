@@ -44,14 +44,11 @@ Blockchain Profile Portfolio
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ihsankingcrypto)[<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](https://edu.ytjt.org)
 [<img height="28" width="107" alt="Web" src="https://cdn-icons-png.flaticon.com/512/1367/1367671.png"/>](https://saudagartraining.kiah.store/e-commerce/product/42521)
 </h2>
-
 <br>
-<br>
-
-<b> Expensive JPEG Collection (NFT) </b>
-
-[<img height="28" width="107" alt="Pentas" src="https://www.pentas.io/pentas-logo-text.svg" />](https://app.pentas.io/user/0xD5DBBEd0c1fb0399A2AAF25bF802bb99Af6EE593) [<img height="28" width="107" alt="Opensea" src="https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).png" />](https://opensea.io/0xD5DBBEd0c1fb0399A2AAF25bF802bb99Af6EE593)
-<br>[<img height="28" width="107" alt="nip05" src="https://i.ibb.co/Tt7pwvr/IMG-20230211-112624-594.jpg" />](https://saudagartraining.kiah.store/e-commerce/product/42522)  [<img height="28" width="107" alt="ud" src="https://mma.prnewswire.com/media/1550425/unstoppabledomains_Logo.jpg?p=twitter" />](https://saudagartraining.kiah.store/e-commerce/product/42526)
+<h2 align="center">Expensive JPEG Collection (NFT)
+ 
+[<img height="28" width="107" alt="Pentas" src="https://www.pentas.io/pentas-logo-text.svg" />](https://app.pentas.io/user/0xD5DBBEd0c1fb0399A2AAF25bF802bb99Af6EE593) [<img height="28" width="107" alt="Opensea" src="https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).png" />](https://opensea.io/0xD5DBBEd0c1fb0399A2AAF25bF802bb99Af6EE593)[<img height="28" width="107" alt="nip05" src="https://i.ibb.co/Tt7pwvr/IMG-20230211-112624-594.jpg" />](https://saudagartraining.kiah.store/e-commerce/product/42522)  [<img height="28" width="107" alt="ud" src="https://mma.prnewswire.com/media/1550425/unstoppabledomains_Logo.jpg?p=twitter" />](https://saudagartraining.kiah.store/e-commerce/product/42526)
+</h2>
 
 
 <br>
