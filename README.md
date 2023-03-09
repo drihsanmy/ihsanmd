@@ -15,7 +15,7 @@
 [<img height="28" width="107" alt="Nostr" src="https://images.indianexpress.com/2022/12/nostr-feat.jpg" />](https://iris.to/ihsanmd@iris.to) [<img height="28" width="107" alt="Web" src="https://www.kindpng.com/picc/m/137-1372514_my-website-logo-png-transparent-png.png"/>](https://ihsanmd.com)
 [<img height="28" width="107" alt="Github" src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" />](https://github.com/drihsanmy) [<img height="28" width="107" alt="commonwealth" src="https://i.ibb.co/qxKMHQQ/IMG-20230210-225707-894.jpg" />](https://commonwealth.im/osmosis/account/osmo1azeqrnhxyznjzs2txccjj2yh9sxg8rtz9yqj4j)
 </h2>
-
+<h2 align="center">Academic </h2>
 
 
 
