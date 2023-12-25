@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihsamd@ytjt.org)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ihsanmd@skiff.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ihsanmd.nft)
-(https://github.com/drihsanmy) [<img height="28" width="107" alt="commonwealth" src="https://i.imgur.com/L5lGdHt.png" />](https://commonwealth.im/osmosis/account/osmo1azeqrnhxyznjzs2txccjj2yh9sxg8rtz9yqj4j)
+[<img height="28" width="107" alt="commonwealth" src="https://i.imgur.com/L5lGdHt.png" />](https://commonwealth.im/osmosis/account/osmo1azeqrnhxyznjzs2txccjj2yh9sxg8rtz9yqj4j)
 
 <br>
  <h3 align="center">Academic</h3>
